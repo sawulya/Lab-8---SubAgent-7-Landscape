@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "AI-enabled humanoid mobile manipulation robots (Atlas / Digit class)",
+  "industry_sector": "Warehousing and logistics",
+  "business_need": "Reduce repetitive manual material handling without creating downtime or unsafe worker interactions",
+  "users_stakeholders": "Warehouse operators, frontline workers, safety manager, finance, IT and system integrators",
+  "capabilities_constraints": "Existing conveyor and warehouse management system; limited integration budget; no trusted humanoid TCO comparison",
+  "risk_consequence_context": "Injury risk around moving robots; downtime, maintenance, reliability and workforce effects",
+  "management_question": "Should management adopt, trial or monitor humanoid robots rather than established warehouse automation?",
+  "time_horizon": "Next 12 months (through November 2027)",
+  "additional_context": "Hypothetical case, not an actual client. Evidence checked as of 2026-11-15.",
+  "intended_application": "Move totes between storage and conveyors in a mid-size e-commerce warehouse with changing product mix",
+  "organization": "Hypothetical mid-size US e-commerce fulfillment company",
+  "adoption_posture": "Moderate fast follower; will run a capped pilot if safety and ROI can be measured"
+}
