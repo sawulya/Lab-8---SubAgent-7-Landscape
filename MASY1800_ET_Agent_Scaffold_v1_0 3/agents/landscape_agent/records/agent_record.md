@@ -1,6 +1,8 @@
 # Assignment 8 — Agent Record / Test Evidence
 
-Student: Alexandra Chsherbinina. Date: 2026-11-15. Agent: Emerging Technology Landscape Agent v1.0. Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0. GitHub repository/branch/commit: **NOT YET PUBLISHED** — student must upload and record real commit hash.
+Student: Alexandra Chsherbinina. Date: 2026-11-15. Agent: Emerging Technology Landscape Agent v1.0. Frozen scaffold: MASY1800_ET_Agent_Scaffold_v1_0. GitHub repository: sawulya/Lab-8---SubAgent-7-Landscape
+    Branch: main
+    Commit: df1926de56518a0919165f00d09e040a6eabdead
 
 ## Independent judgment
 Humanoids belong in Assess / controlled trial for mixed, variable warehouse tote flows, but in Watch for fixed, high-throughput carton transfer. Most consequential signal is independent task-level proof of reliability and fully loaded cost relative to conventional automation.
