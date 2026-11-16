@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "AI-enabled humanoid robots for warehouse material handling",
+  "intended_application": "Moving varied totes and cartons in a warehouse after viewing a promotional demonstration",
+  "organization": "Hypothetical mid-size U.S. e-commerce warehouse",
+  "industry_sector": "Warehousing and logistics",
+  "business_need": "Improve throughput without excessive downtime or safety risk",
+  "users_stakeholders": "Warehouse workers, operations lead, safety manager, finance team",
+  "adoption_posture": "Moderate fast follower",
+  "capabilities_constraints": "Existing conveyors; limited budget; no verified long-term robot uptime, operating cost or productivity data",
+  "risk_consequence_context": "Possible worker injury, workflow disruption, unexpected maintenance and financial loss",
+  "management_question": "Does a promotional video and announced 2027 expansion justify widespread adoption now?",
+  "time_horizon": "12 months, assessed 2026-11-15",
+  "additional_context": "Adversarial vendor-hype test. Only a promotional video and future deployment announcement are supplied. Their content has not been independently verified."
+}
