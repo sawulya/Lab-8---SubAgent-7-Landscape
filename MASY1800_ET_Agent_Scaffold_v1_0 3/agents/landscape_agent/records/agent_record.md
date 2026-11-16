@@ -11,7 +11,7 @@ Humanoids belong in Assess / controlled trial for mixed, variable warehouse tote
 Primary: hypothetical moderate e-commerce warehouse, variable tote movement -> capped, supervised trial subject to gating evidence. Contrast: conservative high-volume center, fixed identical cartons -> keep conveyors and monitor. Stable: overall humanoid maturity and dated market evidence. Changed: alternative ranking, use-case radar, trial decision and relevant performance threshold.
 
 ## Failure and revision
-Initial design weakness (identified during design critique, not a saved failed model execution): risk of conflating announced 2027 deployments and industrial robot installation totals with proven humanoid productivity. Revision: explicit source taxonomy, future-versus-live distinction, no market share extrapolation, and mandatory comparisons against task-specific incumbents. **No failed runtime response is claimed or fabricated.**
+The vendor-hype stress test revealed an instruction-level weakness: the agent was required to identify a non-vendor source even when independent evidence was unavailable. I revised the evidence instructions to require explicit acknowledgment of missing corroboration rather than fabricated citations. In the post-revision test, the agent identified missing independent evidence, avoided unsupported adoption and ROI claims, and recommended further verification before deployment. The structured JSON passed validation. This confirms improved handling of the tested scenario, although further testing is needed to assess consistency across other cases.
 
 ## Source register
 
